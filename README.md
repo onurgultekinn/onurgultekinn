@@ -13,4 +13,4 @@ I focus on building a strong foundation in data analytics and learning core prog
 - **Cinema & Music:** Tracking a personal film archive and listening to alternative/indie music.
 
 ### Connect with Me
-💼 [LinkedIn](https://linkedin.com/in/onurgultekinn) | ✉️ [E-mail](mailto:onurgultekinn26@gmail.com)
+ [LinkedIn](https://linkedin.com/in/onurgultekinn) |  [E-mail](mailto:onurgultekinn26@gmail.com)
