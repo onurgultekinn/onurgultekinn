@@ -1,15 +1,16 @@
 # Hi, I'm Onur.
 
-I am a Data Science and Analytics student at Gebze Technical University. My academic and professional focus is on building an advanced foundation in data analytics and artificial intelligence engineering.
+I am a first-year Data Science and Analytics student at Gebze Technical University.
+I focus on building a strong foundation in data analytics and learning core programming tools while working towards developing impactful, real-world products and projects.
 
-### Technical Focus & Interests
-- **Data Science & AI:** I focus on the Python ecosystem and data analysis libraries (NumPy, Pandas) while actively executing a comprehensive curriculum toward AI engineering.
-- **Web Development:** I utilize core front-end technologies (HTML, CSS, JavaScript) to design and implement customized dashboard interfaces and structural tracking tools.
+### Learning Focus
+- **Data Science:** Studying the Python ecosystem and core data analysis libraries like NumPy and Pandas.
+- **AI & ML:** Following a structured roadmap to build a solid foundation in machine learning and artificial intelligence engineering.
 
-### Specific Areas of Investigation
-- **Sports Analytics:** I analyze data-driven football metrics and modern player scouting methodologies, focusing on the integration of data science into performance scouting.
-- **Productivity Systems:** I construct personalized structural frameworks for objective alignment, long-term examination scheduling, and operational tracking.
+### Specific Interests
+- **Sports Analytics:** Researching data-driven football metrics and modern player scouting methodologies.
+- **Defense Industry:** Following global defense industry trends, emerging technologies, and strategic developments.
+- **Cinema & Music:** Tracking a personal film archive and listening to alternative/indie music.
 
 ### Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/onurgultekinn)
-- ✉️ [E-mail](mailto:onurgultekinn26@gmail.com)
+💼 [LinkedIn](https://linkedin.com/in/onurgultekinn) | ✉️ [E-mail](mailto:onurgultekinn26@gmail.com)
