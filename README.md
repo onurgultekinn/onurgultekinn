@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Onur. 👋
 
-<!--
-**onurgultekinn/onurgultekinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science and Analytics student at Gebze Technical University. My academic and professional focus is on building an advanced foundation in data analytics and artificial intelligence engineering.
 
-Here are some ideas to get you started:
+### Technical Focus & Interests
+- **Data Science & AI:** I focus on the Python ecosystem and data analysis libraries (NumPy, Pandas) while actively executing a comprehensive curriculum toward AI engineering.
+- **Web Development:** I utilize core front-end technologies (HTML, CSS, JavaScript) to design and implement customized dashboard interfaces and structural tracking tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Specific Areas of Investigation
+- **Sports Analytics:** I analyze data-driven football metrics and modern player scouting methodologies, focusing on the integration of data science into performance scouting.
+- **Productivity Systems:** I construct personalized structural frameworks for objective alignment, long-term examination scheduling, and operational tracking.
+
+### Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/onurgultekinn)
+- ✉️ [onurgultekinn26@gmail.com]
