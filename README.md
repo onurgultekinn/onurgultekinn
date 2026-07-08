@@ -12,4 +12,4 @@ I am a Data Science and Analytics student at Gebze Technical University. My acad
 
 ### Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/onurgultekinn)
-- ✉️ [onurgultekinn26@gmail.com]
+- ✉️ [E-mail](onurgultekinn26@gmail.com)
