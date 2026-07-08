@@ -1,4 +1,4 @@
-# Hi, I'm Onur. 👋
+# Hi, I'm Onur.
 
 I am a Data Science and Analytics student at Gebze Technical University. My academic and professional focus is on building an advanced foundation in data analytics and artificial intelligence engineering.
 
