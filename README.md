@@ -3,6 +3,9 @@
 I am a first-year Data Science and Analytics student at Gebze Technical University.
 I focus on building a strong foundation in data analytics and learning core programming tools while working towards developing impactful, real-world products and projects.
 
+### Open Source Projects
+- **[Word Hunter](https://github.com/onurgultekinn/repository-adi):** An AI-assisted (vibe-coded) Manifest V3 Chrome Extension that automates vocabulary capturing, asynchronous translation parsing, and structured CSV data exporting.
+
 ### Learning Focus
 - **Data Science:** Studying the Python ecosystem and core data analysis libraries like NumPy and Pandas.
 - **AI & ML:** Following a structured roadmap to build a solid foundation in machine learning and artificial intelligence engineering.
