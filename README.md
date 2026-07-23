@@ -7,20 +7,6 @@
 I am a first-year Data Science and Analytics student at Gebze Technical University. I focus on building a strong foundation in data analytics and learning core programming tools while working towards developing impactful, real-world products and projects.
 
 ---
-
-### Technologies and Tools
-
-<p align="left">
- [![Python](https://shields.io)](https://python.org)
-[![NumPy](https://shields.io)](https://numpy.org)
-[![Pandas](https://shields.io)](https://pydata.org)
-[![JavaScript](https://shields.io)](https://mozilla.org)
-[![Git](https://shields.io)](https://git-scm.com)
-[![GitHub](https://shields.io)](https://github.com)
-
-</p>
-
----
 ### Open Source Projects
 
 - **Word Hunter:** An AI-assisted (vibe-coded) Manifest V3 Chrome Extension that automates vocabulary capturing, asynchronous translation parsing, and structured CSV data exporting.
