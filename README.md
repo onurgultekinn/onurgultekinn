@@ -1,23 +1,32 @@
 <div align="center">
 
-# Onur Gültekin
-
-**First-Year Data Science & Analytics Student @ Gebze Technical University**
-
-`Data Analytics` • `AI/ML Systems` • `Open Source Software`
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/onurgultekinn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- Dynamic Typing Banner -->
+  <a href="https://github.com/onurgultekinn">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Onur+G%C3%BCltekin;Data+Science+%26+Analytics;Gebze+Technical+University" alt="Typing Effect" />
   </a>
-  &nbsp;
-  <a href="mailto:onurgultekinn26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
+  <p><b>First-Year Data Science & Analytics Student @ Gebze Technical University</b></p>
+  <p><code>Data Analytics</code> • <code>AI/ML Systems</code> • <code>Open Source Software</code></p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/onurgultekinn">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:onurgultekinn26@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+
+</div>
+
+<br />
+
+## 📊 Live Contribution Matrix
+
+<div align="center">
+  <!-- Workflow Tarafından Otomatik Üretilen Snake Animasyonu -->
+  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/snake-output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br />
@@ -43,16 +52,12 @@
 
 <br />
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Dynamic Metrics
 
-### Languages & Frameworks
-`Python` • `JavaScript` • `HTML5` • `CSS3`
-
-### Data Science & Analytics
-`NumPy` • `Pandas` • `Exploratory Data Analysis (EDA)`
-
-### Developer Tools
-`Git` • `GitHub` • `VS Code`
+<div align="center">
+  <!-- Workflow Tarafından Otomatik Üretilen Özgün Metrik Kartı -->
+  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/metrics-output/metrics.svg" alt="Metrics" width="100%" />
+</div>
 
 <br />
 
