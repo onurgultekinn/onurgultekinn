@@ -36,7 +36,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/usdm-ecosystem/usdm-spec">📦 USDM Ecosystem</a></h3>
+      <h3><a href="https://github.com/usdm-project">📦 USDM Ecosystem</a></h3>
       <p><i>Ultimate Structural Data Minifier Ecosystem</i> — High-performance structural data compression tools and prompt standards designed for LLMs and constrained environments.</p>
       <br />
       <hr />
@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurgultekinn&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=onurgultekinn&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=onurgultekinn&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </p>
 
 <br />
