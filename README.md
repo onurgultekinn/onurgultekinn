@@ -5,8 +5,8 @@ I am a first-year Data Science and Analytics student at Gebze Technical Universi
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurgultekinn&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurgultekinn&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
 <br />
@@ -67,4 +67,4 @@ I am a first-year Data Science and Analytics student at Gebze Technical Universi
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/snake-output/snake.svg" alt="Snake animation" />
