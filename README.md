@@ -25,27 +25,29 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 Word Hunter</h3>
+      <h3><a href="https://github.com/onurgultekinn/word-hunter">🔍 Word Hunter</a></h3>
       <p>An AI-assisted (vibe-coded) Manifest V3 Chrome Extension that automates vocabulary capturing, asynchronous translation parsing, and structured CSV data exporting.</p>
       <br />
-      <p><b>Tech Stack:</b> <code>JavaScript</code> <code>Chrome Manifest V3</code> <code>CSV Parsing</code></p>
+      <hr />
+      <p align="left">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 USDM Ecosystem</h3>
+      <h3><a href="https://github.com/usdm-ecosystem/usdm-spec">📦 USDM Ecosystem</a></h3>
       <p><i>Ultimate Structural Data Minifier Ecosystem</i> — High-performance structural data compression tools and prompt standards designed for LLMs and constrained environments.</p>
       <br />
-      <p><b>Tech Stack:</b> <code>Data Specs</code> <code>Markdown</code> <code>LLM Protocols</code></p>
+      <hr />
+      <p align="left">
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM_Prompt-74AA9C?style=flat-square&logo=openai&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
-
-<br />
-
-## 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,numpy,pandas,git,github,vscode&perline=9" alt="Tech Stack Icons" />
-</p>
 
 <br />
 
