@@ -1,15 +1,15 @@
-<h2 align="left">Hi, I'm Onur.</h2>
+# Hi, I'm Onur.
 
-<p>I am a first-year Data Science and Analytics student at Gebze Technical University. I focus on building a strong foundation in data analytics and learning core programming tools while working towards developing impactful, real-world products and projects.</p>
+I am a first-year Data Science and Analytics student at Gebze Technical University. I focus on building a strong foundation in data analytics and learning core programming tools while working towards developing impactful, real-world products and projects.
 
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurgultekinn&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurgultekinn&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onurgultekinn&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurgultekinn&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+<br />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -22,8 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
-
-###
 
 ---
 
@@ -60,17 +58,13 @@
 
 ### Connect with Me
 
-<div align="left">
-  <a href="https://linkedin.com/in/onurgultekinn">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:onurgultekinn26@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
+<a href="https://linkedin.com/in/onurgultekinn">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+<a href="mailto:onurgultekinn26@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
 
-###
-
-<br clear="both">
+<br /><br />
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
