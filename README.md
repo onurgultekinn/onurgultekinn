@@ -2,22 +2,31 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F8F8F2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Onur.;Data+Science+%26+Analytics+Student;Gebze+Technical+University" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Onur+G%C3%BCltekin+👋;Data+Science+%26+Analytics+Student;Gebze+Technical+University;Building+Data+Tools+%26+AI+Systems" alt="Typing Effect" />
+  </a>
+
+  <p><strong>First-Year Data Science & Analytics Student at Gebze Technical University</strong></p>
+  <p>Focused on Data Analytics, Core Programming Tools, and Open-Source Software Development.</p>
+
+  <!-- Badges -->
+  <a href="https://linkedin.com/in/onurgultekinn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:onurgultekinn26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
 </div>
 
 <br />
 
-I am a first-year Data Science and Analytics student at Gebze Technical University. I focus on building a strong foundation in data analytics and learning core programming tools while working towards developing impactful, real-world products and projects.
-
 ---
 
-### Stats & Analytics
+### Analytics & Achievements
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/stats-output/stats.svg" height="155" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/languages.svg" height="155" alt="languages graph" />
 </div>
 
 <br />
@@ -28,68 +37,48 @@ I am a first-year Data Science and Analytics student at Gebze Technical Universi
 
 ---
 
-### Tech & Tools
+### Open Source Projects
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="numpy logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="pandas logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" />
-</p>
+| Project | Domain / Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Word Hunter** | `JavaScript` `Chrome Manifest V3` | An AI-assisted (vibe-coded) Chrome Extension that automates vocabulary capturing, asynchronous translation parsing, and structured CSV data exporting. |
+| **USDM Ecosystem** | `Markdown` `Data Specs` | *Ultimate Structural Data Minifier* — High-performance structural data compression tools and prompt standards designed for LLMs and constrained environments. |
 
 ---
 
-### Open Source Projects
+### Tech Stack & Tools
 
-- **Word Hunter:** An AI-assisted (vibe-coded) Manifest V3 Chrome Extension that automates vocabulary capturing, asynchronous translation parsing, and structured CSV data exporting.
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- Data & ML -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ### Learning Focus
 
-- **Data Science:** Studying the Python ecosystem and core data analysis libraries like NumPy and Pandas.
-- **AI & ML:** Following a structured roadmap to build a solid foundation in machine learning and artificial intelligence engineering.
+* **Data Science:** Studying the Python ecosystem and core data analysis libraries like NumPy and Pandas.
+* **AI & ML:** Following a structured roadmap to build a solid foundation in machine learning and artificial intelligence engineering.
 
 ---
 
 ### Specific Interests
 
-- **Sports Analytics:** Researching data-driven football metrics and modern player scouting methodologies.
-- **Defense Industry:** Following global defense industry trends, emerging technologies, and strategic developments.
-- **Cinema & Music:** Tracking a personal film archive and listening to alternative/indie music.
+* **Sports Analytics:** Researching data-driven football metrics and modern player scouting methodologies.
+* **Defense Industry:** Following global defense industry trends, emerging technologies, and strategic developments.
+* **Cinema & Music:** Tracking a personal film archive and listening to alternative/indie music.
 
 ---
 
-### Featured Organization: USDM Project
+### Contribution Activity
 
-*Ultimate Structural Data Minifier Ecosystem - High-performance data compression tools for LLMs and constrained environments.*
-
-| Repository | Description | Technology |
-| :--- | :--- | :--- |
-| **usdm-spec** | Core protocol specification and LLM prompt standards. | Markdown / Specs |
-
----
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/onurgultekinn">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  &nbsp;
-  <a href="mailto:onurgultekinn26@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</p>
-
----
-
-<!-- Contribution Grid Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/snake-output/snake.svg" alt="Snake animation" />
 </div>
