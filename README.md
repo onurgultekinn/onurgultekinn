@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Typing Effect Banner -->
+  <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F8F8F2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Onur.;Data+Science+%26+Analytics+Student;Gebze+Technical+University" alt="Typing Effect" />
   </a>
@@ -13,18 +13,33 @@ I am a first-year Data Science and Analytics student at Gebze Technical Universi
 
 ---
 
-### Tech Stack & Tools
+### Stats & Analytics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/languages.svg" height="150" alt="languages graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=onurgultekinn&theme=dracula&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+</div>
+
+---
+
+### Tech & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="numpy logo" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="pandas logo" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" />
 </p>
 
 ---
@@ -32,16 +47,6 @@ I am a first-year Data Science and Analytics student at Gebze Technical Universi
 ### Open Source Projects
 
 - **Word Hunter:** An AI-assisted (vibe-coded) Manifest V3 Chrome Extension that automates vocabulary capturing, asynchronous translation parsing, and structured CSV data exporting.
-
----
-
-### Featured Organization: USDM Project
-
-*Ultimate Structural Data Minifier Ecosystem - High-performance data compression tools for LLMs and constrained environments.*
-
-| Repository | Description | Technology |
-| :--- | :--- | :--- |
-| **usdm-spec** | Core protocol specification and LLM prompt standards. | Markdown / Specs |
 
 ---
 
@@ -60,24 +65,13 @@ I am a first-year Data Science and Analytics student at Gebze Technical Universi
 
 ---
 
-### Analytics & Achievements
+### Featured Organization: USDM Project
 
-<div align="center">
+*Ultimate Structural Data Minifier Ecosystem - High-performance data compression tools for LLMs and constrained environments.*
 
-  <!-- Direct API Stats Card (Won't Break) -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=onurgultekinn&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Onur's GitHub Stats" />
-  &nbsp;
-  <!-- Direct API Languages Card -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurgultekinn&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=onurgultekinn&theme=dracula&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
-</div>
+| Repository | Description | Technology |
+| :--- | :--- | :--- |
+| **usdm-spec** | Core protocol specification and LLM prompt standards. | Markdown / Specs |
 
 ---
 
@@ -95,7 +89,7 @@ I am a first-year Data Science and Analytics student at Gebze Technical Universi
 
 ---
 
-<!-- Snake Contribution Graph Animation -->
+<!-- Contribution Grid Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/master/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/snake-output/snake.svg" alt="Snake animation" />
 </div>
