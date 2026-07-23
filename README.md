@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Dynamic Typing Banner -->
+  <!-- Dynamic Typing Header -->
   <a href="https://github.com/onurgultekinn">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Onur+G%C3%BCltekin;Data+Science+%26+Analytics;Gebze+Technical+University" alt="Typing Effect" />
   </a>
@@ -18,15 +18,6 @@
     </a>
   </p>
 
-</div>
-
-<br />
-
-## 📊 Live Contribution Matrix
-
-<div align="center">
-  <!-- Workflow Tarafından Otomatik Üretilen Snake Animasyonu -->
-  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/snake-output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br />
@@ -52,12 +43,20 @@
 
 <br />
 
-## 🛠️ Tech Stack & Dynamic Metrics
+## 🛠️ Tech Stack & Skills
 
-<div align="center">
-  <!-- Workflow Tarafından Otomatik Üretilen Özgün Metrik Kartı -->
-  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/metrics-output/metrics.svg" alt="Metrics" width="100%" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,numpy,pandas,git,github,vscode&perline=9" alt="Tech Stack Icons" />
+</p>
+
+<br />
+
+## 📊 Development Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurgultekinn&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurgultekinn&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+</p>
 
 <br />
 
