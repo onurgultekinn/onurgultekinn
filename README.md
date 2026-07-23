@@ -21,7 +21,6 @@ I focus on building a strong foundation in data analytics and learning core prog
 | Repository | Description | Technology |
 | :--- | :--- | :--- |
 | **[usdm-spec](https://github.com/usdm-project/usdm-spec)** | Core protocol specification and LLM prompt standards. | Markdown / Specs |
-| **[usdmpy](https://github.com/usdm-project/usdmpy)** | Python core library, FastAPI backend, and archiving engine. | Python / FastAPI |
 
 ### Connect with Me
  [LinkedIn](https://linkedin.com/in/onurgultekinn) |  [E-mail](mailto:onurgultekinn26@gmail.com)
