@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurgultekinn&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=onurgultekinn&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/languages.svg" width="49%" alt="Top Languages" />
 </p>
 
 <br />
