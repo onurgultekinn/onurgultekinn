@@ -27,18 +27,28 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/onurgultekinn/word-hunter">🔍 Word Hunter</a></h3>
+      <table width="100%" border="0">
+        <tr>
+          <td align="left"><h3><a href="https://github.com/onurgultekinn/word-hunter">🔍 Word Hunter</a></h3></td>
+          <td align="right"><a href="https://github.com/onurgultekinn/word-hunter"><img src="https://img.shields.io/github/stars/onurgultekinn/word-hunter?style=social" alt="Stars" /></a></td>
+        </tr>
+      </table>
       <p>An AI-assisted (vibe-coded) Manifest V3 Chrome Extension that automates vocabulary capturing, asynchronous translation parsing, and structured CSV data exporting.</p>
       <br />
       <hr />
       <p align="left">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
         <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/usdm-project">📦 USDM Ecosystem</a></h3>
+      <table width="100%" border="0">
+        <tr>
+          <td align="left"><h3><a href="https://github.com/usdm-project">📦 USDM Ecosystem</a></h3></td>
+          <td align="right"><a href="https://github.com/usdm-project"><img src="https://img.shields.io/github/stars/usdm-project/usdm-spec?style=social" alt="Stars" /></a></td>
+        </tr>
+      </table>
       <p><i>Ultimate Structural Data Minifier Ecosystem</i> — High-performance structural data compression tools and prompt standards designed for LLMs and constrained environments.</p>
       <br />
       <hr />
@@ -57,7 +67,7 @@
 
 | Project | Description | Tech Stack | Stars |
 | :--- | :--- | :--- | :---: |
-| **[better-yt-subs](https://github.com/onurgultekinn/better-yt-subs)** | Real-time YouTube caption assistant leveraging LLaMA 3.3 for contextual translation & automated dictionary training. | `JavaScript` `Groq API` `Python` | ![Stars](https://img.shields.io/github/stars/onurgultekinn/better-yt-subs?style=flat-square&color=blue) |
+| **[better-yt-subs](https://github.com/onurgultekinn/better-yt-subs)** | Real-time YouTube caption assistant leveraging LLaMA 3.3 for contextual translation & automated dictionary training. | `JavaScript` `Groq API` `Python` | ![Stars](https://img.shields.io/github/stars/onurgultekinn/better-yt-subs?style=flat-square&color=7aa2f7) |
 
 <br />
 
