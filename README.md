@@ -1,22 +1,20 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header -->
-  <a href="https://github.com/onurgultekinn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Onur+G%C3%BCltekin;Data+Science+%26+Analytics;Gebze+Technical+University" alt="Typing Effect" />
+# Onur Gültekin
+
+**First-Year Data Science & Analytics Student @ Gebze Technical University**
+
+`Data Analytics` • `AI/ML Systems` • `Open Source Software`
+
+<p align="center">
+  <a href="https://linkedin.com/in/onurgultekinn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <p><b>First-Year Data Science & Analytics Student @ Gebze Technical University</b></p>
-  <p><code>Data Analytics</code> • <code>AI/ML Systems</code> • <code>Open Source Software</code></p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/onurgultekinn">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:onurgultekinn26@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+  &nbsp;
+  <a href="mailto:onurgultekinn26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 </div>
 
@@ -55,7 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurgultekinn&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurgultekinn&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=onurgultekinn&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </p>
 
 <br />
