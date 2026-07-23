@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://vercel.app" alt="Header Banner" />
-</div>
-
 # Hi, I'm Onur.
 
 I am a first-year Data Science and Analytics student at Gebze Technical University. I focus on building a strong foundation in data analytics and learning core programming tools while working towards developing impactful, real-world products and projects.
@@ -34,24 +30,7 @@ I am a first-year Data Science and Analytics student at Gebze Technical Universi
 | **usdm-spec** | Core protocol specification and LLM prompt standards. | Markdown / Specs |
 
 ---
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="48%" alt="Top Languages" />
-</p>
-
----
-
 ### Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:eposta-adresiniz@gmail.com">
-    <img src="https://shields.io" alt="E-mail" />
-  </a>
-</p>
+ [LinkedIn](https://linkedin.com/in/onurgultekinn) |  [E-mail](mailto:onurgultekinn26@gmail.com)
 
 
