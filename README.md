@@ -6,6 +6,8 @@
 
 `Data Analytics` • `AI/ML Systems` • `Open Source Software`
 
+<br />
+
 <p align="center">
   <a href="https://linkedin.com/in/onurgultekinn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -51,7 +53,7 @@
 
 <br />
 
-## 📊 Development Metrics
+## 📊 Analytics & Core Metrics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
@@ -69,6 +71,22 @@
 
 <br />
 
+## 📈 Activity Trend Line
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/activity-graph-output/activity-graph.svg" width="100%" alt="Activity Graph" />
+</div>
+
+<br />
+
+## 💻 Weekly Coding Focus (WakaTime)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=onurgultekinn&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</div>
+
+<br />
+
 ## 📌 Learning Focus & Interests
 
 > ### 📚 Learning Focus
@@ -81,3 +99,5 @@
 > - **Sports Analytics:** Researching data-driven football metrics and modern player scouting methodologies.
 > - **Defense Industry:** Tracking global technological developments, autonomous systems, and strategic trends.
 > - **Cinema & Music:** Maintaining a personal film archive and listening to alternative/indie music.
+
+---
