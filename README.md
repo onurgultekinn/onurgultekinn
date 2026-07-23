@@ -53,6 +53,14 @@
 
 <br />
 
+### 🛠️ Other Projects & Tools
+
+| Project | Description | Tech Stack | Stars |
+| :--- | :--- | :--- | :---: |
+| **[better-yt-subs](https://github.com/onurgultekinn/better-yt-subs)** | Real-time YouTube caption assistant leveraging LLaMA 3.3 for contextual translation & automated dictionary training. | `JavaScript` `Groq API` `Python` | ![Stars](https://img.shields.io/github/stars/onurgultekinn/better-yt-subs?style=flat-square&color=blue) |
+
+<br />
+
 ## 📊 Analytics & Core Metrics
 
 <div align="center">
@@ -83,5 +91,3 @@
 > - **Sports Analytics:** Researching data-driven football metrics and modern player scouting methodologies.
 > - **Defense Industry:** Tracking global technological developments, autonomous systems, and strategic trends.
 > - **Cinema & Music:** Maintaining a personal film archive and listening to alternative/indie music.
-
----
