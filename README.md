@@ -71,22 +71,6 @@
 
 <br />
 
-## 📈 Activity Trend Line
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/activity-graph-output/activity-graph.svg" width="100%" alt="Activity Graph" />
-</div>
-
-<br />
-
-## 💻 Weekly Coding Focus (WakaTime)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=onurgultekinn&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-</div>
-
-<br />
-
 ## 📌 Learning Focus & Interests
 
 > ### 📚 Learning Focus
