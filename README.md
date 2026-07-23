@@ -15,7 +15,7 @@ I focus on building a strong foundation in data analytics and learning core prog
 - **Defense Industry:** Following global defense industry trends, emerging technologies, and strategic developments.
 - **Cinema & Music:** Tracking a personal film archive and listening to alternative/indie music.
 
-### 🏢 Featured Organization: [USDM Project](https://github.com/usdm-project)
+### Featured Organization: [USDM Project](https://github.com/usdm-project)
 *Ultimate Structural Data Minifier Ecosystem - High-performance data compression tools for LLMs and constrained environments.*
 
 | Repository | Description | Technology |
