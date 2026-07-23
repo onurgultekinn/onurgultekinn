@@ -11,12 +11,13 @@ I am a first-year Data Science and Analytics student at Gebze Technical Universi
 ### Technologies and Tools
 
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="NumPy" />
-  <img src="https://shields.io" alt="Pandas" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
+ [![Python](https://shields.io)](https://python.org)
+[![NumPy](https://shields.io)](https://numpy.org)
+[![Pandas](https://shields.io)](https://pydata.org)
+[![JavaScript](https://shields.io)](https://mozilla.org)
+[![Git](https://shields.io)](https://git-scm.com)
+[![GitHub](https://shields.io)](https://github.com)
+
 </p>
 
 ---
