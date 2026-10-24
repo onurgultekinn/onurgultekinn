@@ -47,7 +47,7 @@ async translation parsing and structured CSV export.
       </td>
       <td width="15"></td>
       <td valign="middle" align="center">
-        <img height="165" src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/languages.svg" alt="Top Languages" />
+        <img height="130" src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/languages.svg" alt="Top Languages" />
       </td>
     </tr>
   </table>
