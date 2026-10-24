@@ -2,9 +2,17 @@
 
 # Onur Gültekin
 
-**First-Year Data Science & Analytics Student @ Gebze Technical University**
+**Fewer tokens, same meaning.**
 
-`Data Analytics` • `AI/ML Systems` • `Open Source Software`
+I build tools that shrink what goes into an LLM without losing what comes out —
+currently **Thalamus Desktop**, a local-first AI workbench around a lossless
+prompt-compression engine written in Rust.
+
+First-year Data Science & Analytics @ Gebze Technical University
+
+<br />
+
+`Rust` • `TypeScript` • `React` • `Tauri` • `Python` • `Pandas`
 
 <br />
 
@@ -22,7 +30,17 @@
 
 <br />
 
-## Featured Projects
+## Currently building
+
+**Thalamus Desktop** — an AI workbench that runs entirely on your machine: a
+compression chat that shows exactly how many tokens and cents each prompt saves,
+a project workspace with a real editor and terminal, and an agent system with
+tools. At the core is a pure Rust engine that verifies every compression
+round-trip — nothing is ever lost. Private while in beta.
+
+<br />
+
+## Featured project
 
 <table width="100%">
   <tr>
@@ -47,17 +65,15 @@
 
 <br />
 
-## Currently Building
-
-- **Thalamus Desktop** — a local-first prompt-compression engine with an integrated chat, project workspace, and AI copilot (Tauri 2 + Rust + React). Private while in beta.
-
-<br />
-
-## Analytics & Core Metrics
+## Metrics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
+      <td valign="middle" align="center">
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=onurgultekinn&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td width="15"></td>
       <td valign="middle" align="center">
         <img height="165" src="https://streak-stats.demolab.com/?user=onurgultekinn&theme=tokyonight&hide_border=true&include_orgs=true" alt="Streak Stats" />
       </td>
