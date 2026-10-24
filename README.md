@@ -4,8 +4,6 @@
 
 **First-Year Data Science & Analytics Student @ Gebze Technical University**
 
-`Rust` • `TypeScript` • `React` • `Python`
-
 <br />
 
 <p align="center">
@@ -50,15 +48,7 @@ async translation parsing and structured CSV export.
 ## Metrics
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td valign="middle" align="center">
-        <img height="165" src="https://streak-stats.demolab.com/?user=onurgultekinn&theme=tokyonight&hide_border=true&include_orgs=true" alt="Streak Stats" />
-      </td>
-      <td width="15"></td>
-      <td valign="middle" align="center">
-        <img height="130" src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/languages.svg" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img height="120" src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/stats.svg" alt="GitHub Stats" />
+  <br /><br />
+  <img height="130" src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/languages.svg" alt="Top Languages" />
 </div>
