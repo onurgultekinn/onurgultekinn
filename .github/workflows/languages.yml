@@ -30,4 +30,4 @@ jobs:
           target_branch: languages-output
           build_dir: dist
         env:
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
