@@ -22,14 +22,14 @@
 
 <br />
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <table width="100%" border="0">
         <tr>
-          <td align="left"><h3><a href="https://github.com/onurgultekinn/word-hunter">🔍 Word Hunter</a></h3></td>
+          <td align="left"><h3><a href="https://github.com/onurgultekinn/word-hunter">Word Hunter</a></h3></td>
           <td align="right"><a href="https://github.com/onurgultekinn/word-hunter"><img src="https://img.shields.io/github/stars/onurgultekinn/word-hunter?style=social" alt="Stars" /></a></td>
         </tr>
       </table>
@@ -45,7 +45,7 @@
     <td width="50%" valign="top">
       <table width="100%" border="0">
         <tr>
-          <td align="left"><h3><a href="https://github.com/usdm-project">📦 USDM Ecosystem</a></h3></td>
+          <td align="left"><h3><a href="https://github.com/usdm-project">USDM Ecosystem</a></h3></td>
           <td align="right"><a href="https://github.com/usdm-project"><img src="https://img.shields.io/github/stars/usdm-project/usdm-spec?style=social" alt="Stars" /></a></td>
         </tr>
       </table>
@@ -63,7 +63,7 @@
 
 <br />
 
-### 🛠️ Other Projects & Tools
+### Other Projects & Tools
 
 | Project | Description | Tech Stack | Stars |
 | :--- | :--- | :--- | :---: |
@@ -71,13 +71,19 @@
 
 <br />
 
-## 📊 Analytics & Core Metrics
+## Currently Building
+
+- **Thalamus Desktop** — a local-first prompt-compression engine with an integrated chat, project workspace, and AI copilot (Tauri 2 + Rust + React). Private while in beta.
+
+<br />
+
+## Analytics & Core Metrics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td valign="middle" align="center">
-        <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=onurgultekinn&theme=tokyonight&hide_border=true&include_orgs=true" alt="Streak Stats" />
+        <img height="165" src="https://streak-stats.demolab.com/?user=onurgultekinn&theme=tokyonight&hide_border=true&include_orgs=true" alt="Streak Stats" />
       </td>
       <td width="15"></td>
       <td valign="middle" align="center">
@@ -89,15 +95,17 @@
 
 <br />
 
-## 📌 Learning Focus & Interests
+## Learning Focus & Interests
 
-> ### 📚 Learning Focus
-> - **Data Science:** Mastering the Python ecosystem, data wrangling, and core analytics libraries like NumPy and Pandas.
-> - **AI & Machine Learning:** Building a strong mathematical and practical foundation in machine learning and AI engineering.
+**Learning Focus**
+
+- **Data Science:** Mastering the Python ecosystem, data wrangling, and core analytics libraries like NumPy and Pandas.
+- **AI & Machine Learning:** Building a strong mathematical and practical foundation in machine learning and AI engineering.
 
 ---
 
-> ### 🎯 Specific Interests
-> - **Sports Analytics:** Researching data-driven football metrics and modern player scouting methodologies.
-> - **Defense Industry:** Tracking global technological developments, autonomous systems, and strategic trends.
-> - **Cinema & Music:** Maintaining a personal film archive and listening to alternative/indie music.
+**Specific Interests**
+
+- **Sports Analytics:** Researching data-driven football metrics and modern player scouting methodologies.
+- **Defense Industry:** Tracking global technological developments, autonomous systems, and strategic trends.
+- **Cinema & Music:** Maintaining a personal film archive and listening to alternative/indie music.
