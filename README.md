@@ -48,7 +48,15 @@ async translation parsing and structured CSV export.
 ## Metrics
 
 <div align="center">
-  <img height="160" src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/stats.svg" alt="GitHub Stats" />
-  <br /><br />
-  <img height="130" src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/languages.svg" alt="Top Languages" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="middle" align="center">
+        <img height="160" src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/stats.svg" alt="GitHub Stats" />
+      </td>
+      <td width="15"></td>
+      <td valign="middle" align="center">
+        <img height="125" src="https://raw.githubusercontent.com/onurgultekinn/onurgultekinn/languages-output/languages.svg" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
