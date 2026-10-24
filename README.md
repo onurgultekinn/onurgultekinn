@@ -22,6 +22,16 @@
 
 <br />
 
+## Currently building
+
+**Thalamus Desktop**, a desktop app for working with AI providers: a chat that
+compresses prompts and shows the token and cost savings, a project workspace
+with an editor and terminal, and agent tools. The compression engine is written
+in Rust and verifies that compressed prompts restore exactly. Private while in
+beta.
+
+<br />
+
 ## Featured project
 
 ### [Word Hunter](https://github.com/onurgultekinn/word-hunter)
