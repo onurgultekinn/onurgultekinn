@@ -2,17 +2,9 @@
 
 # Onur Gültekin
 
-**Fewer tokens, same meaning.**
+**First-Year Data Science & Analytics Student @ Gebze Technical University**
 
-I build tools that shrink what goes into an LLM without losing what comes out —
-currently **Thalamus Desktop**, a local-first AI workbench around a lossless
-prompt-compression engine written in Rust.
-
-First-year Data Science & Analytics @ Gebze Technical University
-
-<br />
-
-`Rust` • `TypeScript` • `React` • `Tauri` • `Python` • `Pandas`
+`Rust` • `TypeScript` • `React` • `Python`
 
 <br />
 
@@ -32,11 +24,11 @@ First-year Data Science & Analytics @ Gebze Technical University
 
 ## Currently building
 
-**Thalamus Desktop** — an AI workbench that runs entirely on your machine: a
-compression chat that shows exactly how many tokens and cents each prompt saves,
-a project workspace with a real editor and terminal, and an agent system with
-tools. At the core is a pure Rust engine that verifies every compression
-round-trip — nothing is ever lost. Private while in beta.
+**Thalamus Desktop**, a desktop app for working with AI providers: a chat that
+compresses prompts and shows the token and cost savings, a project workspace
+with an editor and terminal, and agent tools. The compression engine is written
+in Rust and verifies that compressed prompts restore exactly. Private while in
+beta.
 
 <br />
 
