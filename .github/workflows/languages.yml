@@ -38,4 +38,4 @@ jobs:
           target_branch: languages-output
           build_dir: dist
         env:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
