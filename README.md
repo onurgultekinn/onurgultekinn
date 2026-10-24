@@ -68,20 +68,3 @@
     </tr>
   </table>
 </div>
-
-<br />
-
-## Learning Focus & Interests
-
-**Learning Focus**
-
-- **Data Science:** Mastering the Python ecosystem, data wrangling, and core analytics libraries like NumPy and Pandas.
-- **AI & Machine Learning:** Building a strong mathematical and practical foundation in machine learning and AI engineering.
-
----
-
-**Specific Interests**
-
-- **Sports Analytics:** Researching data-driven football metrics and modern player scouting methodologies.
-- **Defense Industry:** Tracking global technological developments, autonomous systems, and strategic trends.
-- **Cinema & Music:** Maintaining a personal film archive and listening to alternative/indie music.
